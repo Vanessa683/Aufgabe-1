@@ -1,5 +1,5 @@
 Module HelloWorld
    Sub Main( )
-      System.Console.WriteLine()
+      System.Console.WriteLine("Hello")
    End Sub
 End Module
